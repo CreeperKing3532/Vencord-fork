@@ -2,7 +2,7 @@
 
 > *Modded Discord for people who wana do some funny*  
 
-![](https://img.shields.io/github/package-json/v/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&label=version&color=blueviolet)  
+![](https://img.shields.io/github/package-json/v/CreeperKing3532/Vencord-fork?style=for-the-badge&label=version&color=blueviolet)  
 [![Join Support Discord](https://img.shields.io/discord/1138499236202944522?style=for-the-badge&label=Need%20Help%3F&color=5865F2)](https://discord.gg/D9uwnFnqmd)
 
 ---
